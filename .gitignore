@@ -1,0 +1,11 @@
+.env
+.env.local
+.env.*.local
+backend/.env
+frontend/.env.local
+node_modules/
+frontend/out/
+frontend/.next/
+tmp/
+*.exe
+runapp-api
